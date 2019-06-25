@@ -12,4 +12,4 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 |Currency|Rate|Status|Stok|Transaksi|
 |---	|---	|---	|---	|---	|
 |Beli Voucher Indodax|0%|-|0|Beli|
-|Jual Voucher Indodax|0.5%|Tersedia|Rp. 10.000.000,-|Beli|
+|Jual Voucher Indodax|0.5%|Tersedia|Rp. 10.000.000,-|Jual|
