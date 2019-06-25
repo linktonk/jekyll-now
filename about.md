@@ -45,3 +45,11 @@ Linktonk Exchange (linktonk.org) menawarkan layanan jual-beli voucher Indodax, s
 |---	|---  |---	|---	|
 |Beli Saldo PayPal|Rp. 14.500,-|$500|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20saldo%20PayPal%20linktonk.org'" />|
 |Jual Saldo PayPal|-|$0|<button name="button" onclick="https://wa.me/628988651075?text=Saya%20mau%20jual%20saldo%20PayPal%20linktonk.org">Jual</button>|
+
+---
+## Rekening Admin
+|<b>Bank|<b>Nomor Rekening|
+|---	|---  |
+|![jual beli saldo paypal]({{ site.baseurl }}/images/btpn.png)|Rp. 14.500,-|
+|![jual beli saldo paypal]({{ site.baseurl }}/images/cimb.png)|Rp. 14.500,-|
+|![jual beli saldo paypal]({{ site.baseurl }}/images/bri.png)|Rp. 14.500,-|
