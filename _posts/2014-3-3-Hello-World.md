@@ -14,10 +14,6 @@ td, th {
   text-align: left;
   padding: 8px;
 }
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
 </style>
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
