@@ -50,6 +50,6 @@ Linktonk Exchange (linktonk.org) menawarkan layanan jual-beli voucher Indodax, s
 ## Rekening Admin
 |<b>Bank|<b>Nomor Rekening|
 |---	|---  |
-|![btpn]({{ site.baseurl }}/images/btpn.png)|Rp. 14.500,-|
-|![cimb]({{ site.baseurl }}/images/cimb.png)|Rp. 14.500,-|
-|![bri]({{ site.baseurl }}/images/bri.png)|Rp. 14.500,-|
+|BTPN|Rp. 14.500,-|
+|CIMB Niaga|Rp. 14.500,-|
+|BRI|Rp. 14.500,-|
