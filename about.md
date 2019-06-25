@@ -18,7 +18,11 @@ td, th {
 }
 </style>
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## Customer Service Linktonk Exchange
+
+![whatsapp]({{ site.baseurl }}/images/wa.png) 0898 8651 075
+![telepon]({{ site.baseurl }}/images/phone.png) 0898 8651 075
+![sms]({{ site.baseurl }}/images/sms.png) 0898 8651 075
 
 <b>Catatan</b>: Semua transaksi hanya melalui WhatsApp, silahkan klik tombol jual atau beli untuk langsung bertransaksi melalui WA.
 
