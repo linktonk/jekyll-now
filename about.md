@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jual-beli Voucher Indodax Terpercaya
+title: Jual-beli Voucher Indodax & Saldo PayPal Terpercaya
 permalink: /about/
 ---
 
