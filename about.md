@@ -23,7 +23,7 @@ Next you can update your site name, avatar and other options using the _config.y
 <b>Catatan</b>: Semua transaksi hanya melalui WhatsApp, silahkan klik tombol jual atau beli untuk langsung bertransaksi melalui WA.
 
 ---
-## Jual-beli Voucher Indodax Terpercaya
+## Jual-beli Voucher Indodax
 ![jual beli voucher indodax]({{ site.baseurl }}/images/indodax.png)
 
 |<b>Currency|<b>Rate|<b>Stok|<b>Transaksi|
@@ -32,7 +32,7 @@ Next you can update your site name, avatar and other options using the _config.y
 |Jual Voucher Indodax|0.5%|Rp. 10.000.000,-|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20voucher%20Indodax%20linktonk.org'" />|
 
 ---
-## Jual-beli Saldo PayPal Terpercaya
+## Jual-beli Saldo PayPal
 ![jual beli saldo paypal]({{ site.baseurl }}/images/paypal.png)
 
 |<b>Currency|<b>Rate|<b>Stok|<b>Transaksi|
