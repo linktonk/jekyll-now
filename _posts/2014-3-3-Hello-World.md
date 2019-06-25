@@ -28,7 +28,7 @@ Next you can update your site name, avatar and other options using the _config.y
 |<b>Currency|<b>Rate|<b>Status|<b>Stok|<b>Transaksi|
 |---	|---	|---	|---	|---	|
 |Beli Voucher Indodax|0%|-|0|<button name="button" onclick="http://www.google.com">Beli</button>|
-|Jual Voucher Indodax|0.5%|Tersedia|Rp. 10.000.000,-|<button name="button" onclick="http://www.google.com">Jual</button>|
+|Jual Voucher Indodax|0.5%|Tersedia|Rp. 10.000.000,-|<button name="button" onclick="https://wa.me/15551234567?text=Saya%20mau%20jual%20voucher%20Indodax%20https://linktonk.org">Jual</button>|
 
 ---
 ## Jual-beli Saldo PayPal Terpercaya
