@@ -11,6 +11,6 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 |Currency|Rate|Status|Stok|Transaksi|
 |---	|---	|---	|---	|---	|
-| 1  	|   1	|   1	|  1 	|  2 	|
+|![_config.yml]({{ site.baseurl }}/images/beli-indodax.jpg)|   1	|   1	|  1 	|  2 	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
