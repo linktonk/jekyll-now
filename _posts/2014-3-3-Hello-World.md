@@ -13,3 +13,4 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 |---	|---	|---	|---	|---	|
 |Beli Voucher Indodax|0%|-|0|<button name="button" onclick="http://www.google.com">Beli</button>|
 |Jual Voucher Indodax|0.5%|Tersedia|Rp. 10.000.000,-|Jual|
+---
