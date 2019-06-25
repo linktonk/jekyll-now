@@ -18,7 +18,7 @@ td, th {
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/beli-indodax.jpg)
+![_config.yml]({{ site.baseurl }}/images/indodax.png)
 
 <b>Catatan</b>: Semua transaksi hanya melalui WhatsApp, silahkan klik tombol jual atau beli untuk langsung bertransaksi melalui WA.
 
