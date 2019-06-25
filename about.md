@@ -20,9 +20,9 @@ td, th {
 
 ## Customer Service Linktonk Exchange
 
-![whatsapp]({{ site.baseurl }}/images/wa.png) 0898 8651 075
-![telepon]({{ site.baseurl }}/images/phone.png) 0898 8651 075
-![sms]({{ site.baseurl }}/images/sms.png) 0898 8651 075
+![whatsapp]({{ site.baseurl }}/images/wa.png) 0898 8651 075 <br>
+![telepon]({{ site.baseurl }}/images/phone.png) 0898 8651 075 <br>
+![sms]({{ site.baseurl }}/images/sms.png) 0898 8651 075 <br>
 
 <b>Catatan</b>: Semua transaksi hanya melalui WhatsApp, silahkan klik tombol jual atau beli untuk langsung bertransaksi melalui WA.
 
