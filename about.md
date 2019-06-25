@@ -18,6 +18,8 @@ td, th {
 }
 </style>
 
+Linktonk Exchange (linktonk.org) menawarkan layanan jual-beli voucher Indodax, saldo PayPal dan juga pulsa.
+
 ## Customer Service Linktonk Exchange
 
 ![whatsapp]({{ site.baseurl }}/images/wa.png) 0898 8651 075 <br>
