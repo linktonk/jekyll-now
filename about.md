@@ -1,15 +1,41 @@
 ---
 layout: page
-title: About
+title: Jual-beli Voucher Indodax Terpercaya
 permalink: /about/
 ---
 
-Some information about you!
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-### More Information
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
 
-A place to include any other types of information that you'd like to include about yourself.
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-### Contact me
+<b>Catatan</b>: Semua transaksi hanya melalui WhatsApp, silahkan klik tombol jual atau beli untuk langsung bertransaksi melalui WA.
 
-[email@domain.com](mailto:email@domain.com)
+---
+## Jual-beli Voucher Indodax Terpercaya
+![jual beli voucher indodax]({{ site.baseurl }}/images/indodax.png)
+
+|<b>Currency|<b>Rate|<b>Stok|<b>Transaksi|
+|---	|---  |---	|---	|
+|Beli Voucher Indodax|0%|Rp. 0,-|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20voucher%20Indodax%20linktonk.org'" />|
+|Jual Voucher Indodax|0.5%|Rp. 10.000.000,-|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20voucher%20Indodax%20linktonk.org'" />|
+
+---
+## Jual-beli Saldo PayPal Terpercaya
+![jual beli saldo paypal]({{ site.baseurl }}/images/paypal.png)
+
+|<b>Currency|<b>Rate|<b>Stok|<b>Transaksi|
+|---	|---  |---	|---	|
+|Beli Voucher Indodax|0%|Rp. 0,-|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20voucher%20Indodax%20linktonk.org'" />|
+|Jual Voucher Indodax|0.5%|Rp. 10.000.000,-|<button name="button" onclick="https://wa.me/628988651075?text=Saya%20mau%20jual%20voucher%20Indodax%20linktonk.org">Jual</button>|
