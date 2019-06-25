@@ -25,7 +25,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 ---
 ## Jual-beli Voucher Indodax Terpercaya
 
-|Currency|Rate|Status|Stok|Transaksi|
+|<b>Currency|Rate|Status|Stok|Transaksi</b>|
 |---	|---	|---	|---	|---	|
 |Beli Voucher Indodax|0%|-|0|<button name="button" onclick="http://www.google.com">Beli</button>|
 |Jual Voucher Indodax|0.5%|Tersedia|Rp. 10.000.000,-|<button name="button" onclick="http://www.google.com">Jual</button>|
@@ -33,7 +33,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 ---
 ## Jual-beli Saldo PayPal Terpercaya
 
-|Currency|Rate|Status|Stok|Transaksi|
+|<b>Currency|Rate|Status|Stok|Transaksi</b>|
 |---	|---	|---	|---	|---	|
 |Beli Voucher Indodax|0%|-|0|<button name="button" onclick="http://www.google.com">Beli</button>|
 |Jual Voucher Indodax|0.5%|Tersedia|Rp. 10.000.000,-|<button name="button" onclick="http://www.google.com">Jual</button>|
