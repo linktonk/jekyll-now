@@ -31,7 +31,7 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ---
 ## Jual-beli Saldo PayPal Terpercaya
-![jual beli voucher indodax]({{ site.baseurl }}/images/indodax.png)
+![jual beli voucher indodax]({{ site.baseurl }}/images/paypal.png)
 
 |<b>Currency|<b>Rate|<b>Stok|<b>Transaksi|
 |---	|---  |---	|---	|
