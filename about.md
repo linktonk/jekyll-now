@@ -28,7 +28,6 @@ Linktonk Exchange (linktonk.org) menawarkan layanan jual-beli voucher Indodax, s
 
 <b>Catatan</b>: Semua transaksi hanya melalui WhatsApp, silahkan klik tombol jual atau beli untuk langsung bertransaksi melalui WA.
 
----
 ## Jual-beli Voucher Indodax
 ![jual beli voucher indodax]({{ site.baseurl }}/images/indodax.png)
 
@@ -37,7 +36,6 @@ Linktonk Exchange (linktonk.org) menawarkan layanan jual-beli voucher Indodax, s
 |Beli Voucher Indodax|0%|Rp. 0,-|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20voucher%20Indodax%20linktonk.org'" />|
 |Jual Voucher Indodax|0.5%|Rp. 10.000.000,-|<input type="button" value="Jual" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20jual%20voucher%20Indodax%20linktonk.org'" />|
 
----
 ## Jual-beli Saldo PayPal
 ![jual beli saldo paypal]({{ site.baseurl }}/images/paypal.png)
 
@@ -46,7 +44,6 @@ Linktonk Exchange (linktonk.org) menawarkan layanan jual-beli voucher Indodax, s
 |Beli Saldo PayPal|Rp. 14.500,-|$500|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20saldo%20PayPal%20linktonk.org'" />|
 |Jual Saldo PayPal|-|$0|<button name="button" onclick="https://wa.me/628988651075?text=Saya%20mau%20jual%20saldo%20PayPal%20linktonk.org">Jual</button>|
 
----
 ## Rekening Admin
 
 |<b>Bank|<b>Nomor Rekening|
