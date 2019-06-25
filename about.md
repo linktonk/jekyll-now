@@ -37,5 +37,5 @@ Next you can update your site name, avatar and other options using the _config.y
 
 |<b>Currency|<b>Rate|<b>Stok|<b>Transaksi|
 |---	|---  |---	|---	|
-|Beli Voucher Indodax|0%|Rp. 0,-|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20voucher%20Indodax%20linktonk.org'" />|
-|Jual Voucher Indodax|0.5%|Rp. 10.000.000,-|<button name="button" onclick="https://wa.me/628988651075?text=Saya%20mau%20jual%20voucher%20Indodax%20linktonk.org">Jual</button>|
+|Beli Saldo PayPal|0%|Rp. 0,-|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20voucher%20Indodax%20linktonk.org'" />|
+|Jual Saldo PayPal|0.5%|Rp. 10.000.000,-|<button name="button" onclick="https://wa.me/628988651075?text=Saya%20mau%20jual%20voucher%20Indodax%20linktonk.org">Jual</button>|
