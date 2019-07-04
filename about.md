@@ -58,6 +58,6 @@ Linktonk Exchange (linktonk.org) menawarkan layanan jual-beli voucher Indodax, s
 |---	|---  |
 |![btpn]({{ site.baseurl }}/images/btpn.png)|90011930849 a.n. Yus Yulianto|
 |![cimb]({{ site.baseurl }}/images/cimb.png)|703312522900 a.n. Yus Yulianto|
-|![bri]({{ site.baseurl }}/images/bri.png)|038501018861509 a.n. Yus Yulianto|
+|![ovo]({{ site.baseurl }}/images/ovo.png)|08988651075 a.n. Yus Yulianto|
 
-<b><i>Catatan</i></b>: Jika anda menggunakan Bank BNI, Mandiri, Mandiri Syariah, BCA, dan Muamalat dapat admin bantu transaksi menggunakan Flip agar tidak terkena biaya admin bank.
+<b><i>Catatan</i></b>: Jika anda menggunakan Bank BNI, BRI, Mandiri, Mandiri Syariah, BCA, dan Muamalat dapat admin bantu transaksi menggunakan Flip agar tidak terkena biaya admin bank.
