@@ -47,8 +47,10 @@ Linktonk Exchange (linktonk.org) menawarkan layanan jual-beli voucher Indodax, s
 |Jual Saldo PayPal|Rp. 13.500|Tersedia|<button name="button" onclick="https://wa.me/628988651075?text=Saya%20mau%20jual%20saldo%20PayPal%20linktonk.org">Jual</button>|
  
 **Penting:**
-- Pastikan akun PayPal anda sudah di verifikasi.
+- Pastikan akun PayPal anda sudah di verifikasi
 - Minimal jual/beli adalah $10
+- Pengiriman saldo menggunakan metode Friend and Family baik jual maupun beli
+- Tidak ada potongan, jumlah yang anda pesan adalah yang anda dapatkan
 - Linktonk.org berhak menanyakan sumber dana jika anda ingin menjual saldo PayPal pada kami
 - Linktonk.org berhak menolak jika dirasa perlu
 
