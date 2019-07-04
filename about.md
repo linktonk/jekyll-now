@@ -34,7 +34,9 @@ Linktonk Exchange (linktonk.org) menawarkan layanan jual-beli voucher Indodax, s
 |<b>Currency|<b>Rate|<b>Stok|<b>Transaksi|
 |---	|---  |---	|---	|
 |Beli Voucher Indodax|0%|Rp. 0,-|<input type="button" value="Beli" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20beli%20voucher%20Indodax%20linktonk.org'" />|
-|Jual Voucher Indodax|0.5%|Rp. 10.000.000,-|<input type="button" value="Jual" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20jual%20voucher%20Indodax%20linktonk.org'" />|
+|Jual Voucher Indodax|0.7%|Rp. 10.000.000,-|<input type="button" value="Jual" onclick="window.location.href='https://wa.me/628988651075?text=Saya%20mau%20jual%20voucher%20Indodax%20linktonk.org'" />|
+  
+<b>Catatan:</b> Minimum fee adalah Rp. 10.000,-. Misalnya anda menjual voucher Indodax dibawah Rp. 1.450.000,- maka fee-nya adalah Rp. 10.000,-.
 
 ## Jual-beli Saldo PayPal
 ![jual beli saldo paypal]({{ site.baseurl }}/images/paypal.png)
